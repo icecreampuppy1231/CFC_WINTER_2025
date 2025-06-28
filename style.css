@@ -72,3 +72,7 @@ section {
     transform: scale(1.2);
     border-color: #00ffff;
 }
+
+@media (max-width:1000px){
+    
+}
